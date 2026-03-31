@@ -1,9 +1,9 @@
 print("Application started")
 
-API_KEY = "sk_test_123456789"
-PASSWORD = "admin@123"
+AWS_ACCESS_KEY = "AKIA1234567890ABCDE"
+STRIPE_SECRET = "sk_live_1234567890ABCDEFGHIJKLMNOPQRSTUVW"
 
-print("API_KEY =", API_KEY)
-print("PASSWORD =", PASSWORD)
+print("AWS_ACCESS_KEY =", AWS_ACCESS_KEY)
+print("STRIPE_SECRET =", STRIPE_SECRET)
 
 print("Application finished")
