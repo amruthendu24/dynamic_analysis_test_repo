@@ -1,11 +1,13 @@
 
-print("Application started")
+
+print("Application starting")
 
 AWS_ACCESS_KEY = "AKIAABCDEFGHIJKLMNOP"
 STRIPE_SECRET = "sk_live_ABCDEFGHIJKLMNOPQRSTUVWXYZ1234"
+JWT_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
 
 print("AWS_ACCESS_KEY =", AWS_ACCESS_KEY)
 print("STRIPE_SECRET =", STRIPE_SECRET)
+print("JWT_TOKEN =", JWT_TOKEN)
 
-print("Application finished")
 
